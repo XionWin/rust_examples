@@ -7,7 +7,7 @@ fn main() {
     println!("Hello, world!");
 
     let person = Person {
-        name: String::from("Amy"),
+        name: String::from("Wen"),
         age: 11u8
     };
     println!("{:?}", person);
